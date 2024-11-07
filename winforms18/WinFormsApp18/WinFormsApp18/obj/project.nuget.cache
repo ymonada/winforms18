@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GDz1lj4O8zM=",
+  "success": true,
+  "projectFilePath": "/home/zhenya/dotnet/winforms18/WinFormsApp18/WinFormsApp18/WinFormsApp18.csproj",
+  "expectedPackageFiles": [
+    "/home/zhenya/.nuget/packages/microsoft.netcore.platforms/1.1.1/microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "/home/zhenya/.nuget/packages/microsoft.netcore.targets/1.1.3/microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "/home/zhenya/.nuget/packages/system.runtime/4.3.1/system.runtime.4.3.1.nupkg.sha512",
+    "/home/zhenya/.nuget/packages/system.text.regularexpressions/4.3.1/system.text.regularexpressions.4.3.1.nupkg.sha512",
+    "/home/zhenya/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

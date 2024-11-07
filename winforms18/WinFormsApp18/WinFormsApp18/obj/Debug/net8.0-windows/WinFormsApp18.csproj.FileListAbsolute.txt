@@ -1,0 +1,16 @@
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.exe
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.deps.json
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.runtimeconfig.json
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.dll
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\bin\Debug\net8.0-windows\WinFormsApp18.pdb
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.Form1.resources
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.csproj.GenerateResource.cache
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.AssemblyInfoInputs.cache
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.AssemblyInfo.cs
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.dll
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\refint\WinFormsApp18.dll
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.pdb
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\WinFormsApp18.genruntimeconfig.cache
+C:\Users\sukhy\source\repos\WinFormsApp18\WinFormsApp18\obj\Debug\net8.0-windows\ref\WinFormsApp18.dll
