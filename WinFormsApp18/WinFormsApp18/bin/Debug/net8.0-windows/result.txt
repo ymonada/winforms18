@@ -1,0 +1,13 @@
+точки
+Point: (100 30)
+Point: (150 30)
+Point: (150 80)
+Point: (900 250)
+Point: (900 550)
+Point: (900 400)
+Point: (450 100)
+Point: (450 20)
+Point: (450 200)
+Point: (450 20)
+Point: (1190 400)
+Point: (1190 401)

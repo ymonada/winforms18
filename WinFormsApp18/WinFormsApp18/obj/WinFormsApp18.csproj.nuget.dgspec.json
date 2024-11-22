@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj": {}
+    "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj": {
+    "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
+        "projectUniqueName": "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
         "projectName": "WinFormsApp18",
-        "projectPath": "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
+        "projectPath": "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
         "packagesPath": "C:\\Users\\sukhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\obj\\",
+        "outputPath": "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

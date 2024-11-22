@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FIQg8iqht2M=",
+  "dgSpecHash": "KjmYsFJAtMU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sukhy\\source\\repos\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
+  "projectFilePath": "C:\\Users\\sukhy\\OneDrive\\Рабочий стол\\WinFormsApp18\\WinFormsApp18\\WinFormsApp18.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sukhy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\sukhy\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",

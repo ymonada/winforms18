@@ -28,20 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            drawingPanel = new Panel();
             btnRun = new Button();
             SuspendLayout();
             // 
-            // drawingPanel
-            // 
-            drawingPanel.Location = new Point(0, 25);
-            drawingPanel.Name = "drawingPanel";
-            drawingPanel.Size = new Size(1920, 1080);
-            drawingPanel.TabIndex = 0;
-            // 
             // btnRun
             // 
-            btnRun.Location = new Point(0, 0);
+            btnRun.Location = new System.Drawing.Point(0, 0);
             btnRun.Name = "btnRun";
             btnRun.Size = new Size(75, 25);
             btnRun.TabIndex = 0;
@@ -55,7 +47,6 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1307, 756);
             Controls.Add(btnRun);
-            Controls.Add(drawingPanel);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -63,8 +54,6 @@
         }
 
         #endregion
-
-        private Panel drawingPanel;
         private Button btnRun;
     }
 }
